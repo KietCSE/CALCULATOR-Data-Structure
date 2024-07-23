@@ -1,0 +1,2 @@
+echo off
+cd src\main\java\com\mycompany\caculator
